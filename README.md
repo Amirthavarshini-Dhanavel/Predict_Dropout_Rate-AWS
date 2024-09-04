@@ -202,9 +202,9 @@ The following are the KPIs that are used to find the measure of success:
 ## S3 Data Storage:
 Create an S3 bucket to store the dataset(s).
 Upload data to the S3 Bucket.
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/1%20-%20S3%20Data%20storage/Picture1.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/1%20-%20S3%20Data%20storage/Picture2.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/1%20-%20S3%20Data%20storage/Picture3.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/1%20-%20S3%20Data%20storage/Picture1.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/1%20-%20S3%20Data%20storage/Picture2.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/1%20-%20S3%20Data%20storage/Picture3.png)
 
 ## Data Exploration for Insight and Pre-processing:
 Use Amazon Athena to query the transformed data.
@@ -212,28 +212,28 @@ Use SQL queries for meaningful insights from the dataset for data exploration
 Create visualizations using Amazon QuickSight.
 The descriptions to the insights are mentioned below the insights:
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/2%20-%20Data%20exploration/Picture1.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/2%20-%20Data%20exploration/Picture1.png)
 
 Gender and Count of Target
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/2%20-%20Data%20exploration/Picture2.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/2%20-%20Data%20exploration/Picture3.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/2%20-%20Data%20exploration/Picture2.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/2%20-%20Data%20exploration/Picture3.png)
 
 Distribution of graduate,dropout and enrolled students in each gender.
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/2%20-%20Data%20exploration/Picture4.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/2%20-%20Data%20exploration/Picture4.png)
 
 Age of enrollment of students in the dataset.
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/2%20-%20Data%20exploration/Picture5.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/2%20-%20Data%20exploration/Picture5.png)
 
 Distribution of age of students enrolled with respect to dropout, enrolled and graduate value.
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/2%20-%20Data%20exploration/Picture6.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/2%20-%20Data%20exploration/Picture6.png)
 
 Distribution of male and female students with respect to their target value (Dropout, pass, fail)
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/2%20-%20Data%20exploration/Picture7.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/2%20-%20Data%20exploration/Picture7.png)
 
 Distribution of students with respect to their marital status and their target value(Dropout, pass, fail)
 
@@ -241,25 +241,25 @@ Distribution of students with respect to their marital status and their target v
 
 Total records: 
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/3%20-%20Running%20Queries/Picture1.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/3%20-%20Running%20Queries/Picture1.png)
 
 Dropout as per gender:
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/3%20-%20Running%20Queries/Picture2.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/3%20-%20Running%20Queries/Picture3.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/3%20-%20Running%20Queries/Picture2.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/3%20-%20Running%20Queries/Picture3.png)
 
 Dropout as per Marital Status:
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/3%20-%20Running%20Queries/Picture4.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/3%20-%20Running%20Queries/Picture5.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/3%20-%20Running%20Queries/Picture4.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/3%20-%20Running%20Queries/Picture5.png)
 
 Dropout according to Mother’s occupation:
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/3%20-%20Running%20Queries/Picture6.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/3%20-%20Running%20Queries/Picture6.png)
 
 Dropout as per Age of enrollment:
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/3%20-%20Running%20Queries/Picture7.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/3%20-%20Running%20Queries/Picture7.png)
 
 ## AWS Glue ETL Job:
 
