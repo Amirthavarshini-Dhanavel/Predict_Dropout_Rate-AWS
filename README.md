@@ -266,23 +266,23 @@ Dropout as per Age of enrollment:
 Create an ETL job using AWS Glue to transform the dataset(s) in S3
 Perform basic data transformations (e.g., filtering, aggregation, type conversions)
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture1.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture2.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture3.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture4.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture5.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture6.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture7.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture8.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture9.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture10.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture11.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture12.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture13.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture1.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture2.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture3.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture4.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture5.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture6.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture7.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture8.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture9.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture10.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture11.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture12.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/4%20-%20Glue%20ETL/Picture13.png)
 
 ## AWS Pipeline:
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/5%20-%20Pipeline/Picture1.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/5%20-%20Pipeline/Picture1.png)
 
 # PROJECT DELIVERABLE 3
 
@@ -310,11 +310,11 @@ Below are the list of tools used in this project
 * Logistic Regression
 
 ## Data Pre-processing
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Data%20Preprocessing/1.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Data%20Preprocessing/2.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Data%20Preprocessing/3.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Data%20Preprocessing/4.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Data%20Preprocessing/5.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Data%20Preprocessing/1.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Data%20Preprocessing/2.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Data%20Preprocessing/3.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Data%20Preprocessing/4.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Data%20Preprocessing/5.png)
 
 ### Neural Network model with Simple Dense Layers
 
@@ -331,9 +331,9 @@ Below are the list of tools used in this project
    * Number of epochs on the training dataset is 30.
    * Batch Size: Number of samples processed before the model is updated, set to 32.
 
- ![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Neural%20Network%20model%20with%20Simple%20Dense%20Layers/6.png)
-  ![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Neural%20Network%20model%20with%20Simple%20Dense%20Layers/7.png)
-   ![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/Neural%20Network%20model%20with%20Simple%20Dense%20Layers/8.png)
+ ![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Neural%20Network%20model%20with%20Simple%20Dense%20Layers/6.png)
+  ![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Neural%20Network%20model%20with%20Simple%20Dense%20Layers/7.png)
+   ![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/Neural%20Network%20model%20with%20Simple%20Dense%20Layers/8.png)
 
 ### Logistic Regression
 
@@ -348,10 +348,10 @@ Below are the list of tools used in this project
 * Then we apply a scalar transformation function over the dataset to flat out the values of all the features to represent a proportionate amount in the values.
 * Now, we will fit the model over the training data and test it over the test set about which we are going to discuss in the evaluation section
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Model/12.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Model/13.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Model/14.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Model/15.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Model/12.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Model/13.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Model/14.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Model/15.png)
 
 ## Evaluation and Validation 
 
@@ -363,9 +363,9 @@ Below are the list of tools used in this project
       * The validation accuracy also increases reaching 78.28%, but with some fluctuations, suggesting that the model may not generalize as well to new data.
    * On testing dataset, model achieves an accuracy of 73.81%
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/NN%20Validation/9.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/NN%20Validation/10.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/NN%20Validation/11.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/NN%20Validation/9.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/NN%20Validation/10.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/NN%20Validation/11.png)
 
 ### Logistic regression model 
 	 
@@ -378,11 +378,11 @@ Below are the list of tools used in this project
 * From the confusion matrix heatmap, we can see that the majority of the observations have been correctly classified in the True positive and the True negative 
   classes. With other two classes having significantly less observations, i.e, False positive as well as false negative classes.
 
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Validation/16.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Validation/17.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Validation/18.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Validation/19.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/LR%20Validation/20.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Validation/16.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Validation/17.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Validation/18.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Validation/19.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/LR%20Validation/20.png)
 
 ## Hyperparameter Tuning
 
@@ -392,8 +392,8 @@ Below are the list of tools used in this project
 * The tuning is done using RandomizedSearchCV because it is a randomized search over a specified parameter distribution which works better for this model.
 * After performing hyperparameter tuning the accuracy increased to 91.05%.
  
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/HyperParameter%20Tuning%20-%20Random%20Forest%20Model/21.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/HyperParameter%20Tuning%20-%20Random%20Forest%20Model/22.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/HyperParameter%20Tuning%20-%20Random%20Forest%20Model/21.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/HyperParameter%20Tuning%20-%20Random%20Forest%20Model/22.png)
 
 #### Logistic regression model:
 
@@ -402,9 +402,9 @@ Below are the list of tools used in this project
 * After performing hyperparameter tuning the accuracy increased to 91.71%.
 * Below all the steps taken to achieve this have been shown below.
  
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/HyperParameter%20Tuning%20-%20LR%20Model/23.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/HyperParameter%20Tuning%20-%20LR%20Model/24.png)
-![alt text](https://github.com/DelphineMeera/Predict-students-dropout-and-academic-success/blob/main/Screenshots/HyperParameter%20Tuning%20-%20LR%20Model/25.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/HyperParameter%20Tuning%20-%20LR%20Model/23.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/HyperParameter%20Tuning%20-%20LR%20Model/24.png)
+![alt text](https://github.com/Amirthavarshini-Dhanavel/Predict_Dropout_Rate-AWS/blob/main/Screenshots/HyperParameter%20Tuning%20-%20LR%20Model/25.png)
 
 ## Conclusion
 
